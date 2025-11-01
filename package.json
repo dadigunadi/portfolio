@@ -1,0 +1,10 @@
+{
+  "homepage": "https://dadigunadi.github.io/portfolio",
+  "scripts": {
+    "predeploy": "echo Skipping build...",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
